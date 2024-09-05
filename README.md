@@ -6,7 +6,7 @@
 Quantum-Based Portfolio Diversification (QBPD) is a quantum algorithm designed to optimize and diversify investment portfolios using quantum computing principles.
 
 ## Offering
-This project is available for purchase. For inquiries regarding pricing and licensing, please contact us at [reece.dixon@quantascript.com](mailto:reece.dixon@quantascript.com).
+This project is available for purchase. For inquiries regarding pricing and licensing, please contact us at [quantascript@gmail.com](mailto:quantascript@gmail.com).
 
 ## Mathematical Equations
 
